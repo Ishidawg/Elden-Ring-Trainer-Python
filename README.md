@@ -2,6 +2,13 @@
 
 **Executable trainer maded on python.**
 
+**Instructions**
+>Open Elden Ering
+
+>Open Trainer with administrator!!!
+
+>Mark what checkboxes you want.
+
 *SourceCode:*
 
 ```
